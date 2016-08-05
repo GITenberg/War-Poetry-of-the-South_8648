@@ -1,0 +1,32 @@
+_repo: War-Poetry-of-the-South_8648
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Simms, William Gilmore
+    aliases:
+    - Simms, W. Gilmore (William Gilmore)
+    - Cooper, Frank
+    birthdate: 1806
+    deathdate: 1870
+    gutenberg_agent_id: '440'
+    url: http://www.gutenberg.org/2009/agents/440
+    wikipedia: http://en.wikipedia.org/wiki/William_Gilmore_Simms
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Southern States -- Poetry'
+- !lcsh 'War poetry, American -- Southern States'
+- !lcsh 'American poetry -- Southern States'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Poetry'
+- GITenberg
+title: War Poetry of the South
+url: http://www.gutenberg.org/ebooks/8648

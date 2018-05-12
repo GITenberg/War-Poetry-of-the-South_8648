@@ -1,5 +1,8 @@
 _repo: War-Poetry-of-the-South_8648
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Simms, William Gilmore
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/440
     wikipedia: http://en.wikipedia.org/wiki/William_Gilmore_Simms
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8648#War-Poetry-of-the-South
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
